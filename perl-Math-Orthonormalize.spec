@@ -6,7 +6,7 @@
 %define	pdir	Math
 %define	pnam	Orthonormalize
 Summary:	Math::Orthonormalize - Gram-Schmidt Orthonormalization of vectors
-Summary(pl.UTF-8):	Math::Orthogonalize - ortogonalizacja wektorów metodą Grama-Schmidta
+Summary(pl.UTF-8):	Math::Orthonormalize - ortonormalizacja wektorów metodą Grama-Schmidta
 Name:		perl-Math-Orthonormalize
 Version:	1.00
 Release:	0.1
@@ -39,7 +39,7 @@ semantics are in place, including the ':all' tag that imports all of
 the exportable subroutines.
 
 %description -l pl.UTF-8
-Moduł Math::Orthogonalize oferuje procedury do obliczania
+Moduł Math::Orthonormalize oferuje procedury do obliczania
 znormalizowanych lub nieznormalizowanych baz ortogonalnych
 euklidesowych przestrzeni wektorowych. Oznacza to, że dla danej bazy
 R^n oblicza nową bazę R^n, której wszystkie wektory są ortogonalne
