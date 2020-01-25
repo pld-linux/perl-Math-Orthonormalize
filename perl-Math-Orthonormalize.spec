@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Math
 %define	pnam	Orthonormalize
 Summary:	Math::Orthonormalize - Gram-Schmidt Orthonormalization of vectors
